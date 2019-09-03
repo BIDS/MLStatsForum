@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+#particles-js {
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  height: 380px;
+  position: relative;
+}
+.footer-logo{
+  filter: invert(100%);
+}

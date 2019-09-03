@@ -1,0 +1,31 @@
+<header class="site-header" id="particles-js">
+
+  <div class="wrapper" >
+    {%- assign default_paths = site.pages | map: "path" -%}
+    {%- assign page_paths = site.header_pages | default: default_paths -%}
+    {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
+    <nav class="navbar navbar-expand-sm fixed-top navbar-light">
+        <div class="container">
+            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbar1">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <a class="navbar-brand" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+        {%- if titles_size > 0 -%}
+            <div class="collapse navbar-collapse" id="navbar1">
+                <ul class="navbar-nav">
+              {%- for path in page_paths -%}
+                {%- assign my_page = site.pages | where: "path", path | first -%}
+                {%- if my_page.title -%}
+                    <li class="nav-item active">
+                        <a class="nav-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+                    </li>
+                {%- endif -%}
+              {%- endfor -%}
+                </ul>
+            </div>
+        {%- endif -%}
+        </div>
+    </nav>
+
+  </div>
+</header>
