@@ -4,15 +4,19 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+The new Berkeley Statistics and Machine Learning Discussion Group will meet
+biweekly to discuss statistical and data science methods and their applications
+across a wide variety of domain research sciences.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Hosted by UC Berkeley Physics Professor and BIDS Senior Fellow
+[Uros Seljak](https://bids.berkeley.edu/people/uros-seljak), these active
+sessions will bring together domain scientists, statisticians and computer
+scientists who are either developing state-of-the-art methods or are interested
+in applying these methods in their research.
+Participants are able to contribute actively and propose discussion topics in
+preparation for each meeting. The emphasis will be on applicative aspects of the
+methods.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Practical questions about the meetings can be directed to BIDS Fellow
+[Francois Lanusse](mailto:flanusse@berkeley.edu)
