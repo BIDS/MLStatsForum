@@ -16,7 +16,7 @@
 title: Berkeley Stats & ML Forum
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Bi-weekly interdisciplinary discussion forum on
+  Biweekly interdisciplinary discussion forum on
   Machine Learning and Statistics at the Berkeley
   Institute for Data Science.
 baseurl: "/MLStatsForum" # the subpath of your site, e.g. /blog
