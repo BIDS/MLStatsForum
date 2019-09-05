@@ -8,12 +8,14 @@ The Berkeley Statistics and Machine Learning Forum meets biweekly to discuss cur
 sessions bring together domain scientists, statisticians and computer scientists
 who are either developing state-of-the-art methods or are interested in applying
 these methods in their research. Practical questions about the meetings can be
-directed to BIDS Fellow [Francois Lanusse](mailto:flanusse@berkeley.edu).
+directed to BIDS Data Science Fellow [François Lanusse](https://bids.berkeley.edu/people/fran%C3%A7ois-lanusse).
 
+All interested members of the UC Berkeley and LBL communities are welcome and
+encouraged to attend.
 
 To receive email notifications about the meetings and upvote papers for discussion
 please register [here](https://www.benty-fields.com/register) and join the
-[Berkeley Statistics and Machine Learning Group](https://www.benty-fields.com/manage_jc?groupid=191).
+[Berkeley Statistics and Machine Learning Forum](https://www.benty-fields.com/manage_jc?groupid=191).
 
 ### Upcoming sessions
 
