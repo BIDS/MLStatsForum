@@ -17,19 +17,18 @@ Practical questions about the meetings can be directed to BIDS Fellow
 
 ### Upcoming sessions
 
-  - Sept. 9th: Attention!
+  - Sept. 9th: The Recursive Inference Machine, and applications to Astronomical and Medical imaging
 
 ### Previous sessions
 
-  - Artificial Intelligence, from Astronomy to Interior Design and Back Again (Miguel Aragon-Calvo)
-  - Interpretable machine learning - what does it actually mean? (Jamie Murdoch)
-  - Learning on unstructured spherical grids (Max Jiang)
-  - Power of gradients and accept-reject step in MCMC algorithms (Raaz Dwivedi)
-  - JUNIPR: a framework for unsupervised and interpretable machine learning in particle physics (Anders Andreassen)
-  - Efficient coding and language evolution: the case of color naming (Noga Zaslavskya)
-  - Sampling vs Optimization (Yian Ma)
-  - Deep Learning with symmetries (Tess Smidt)
-  - Latest development in Recurrent Neural Networks (Ravi Krishna)
+  - [Interpretable machine learning - what does it actually mean? (Jamie Murdoch)](https://bids.berkeley.edu/events/smldg-2019-0415)
+  - [Learning on unstructured spherical grids (Max Jiang)](https://bids.berkeley.edu/events/smldg-2019-0401)
+  - [Power of gradients and accept-reject step in MCMC algorithms (Raaz Dwivedi)](https://bids.berkeley.edu/events/smldg-2019-0318)
+  - [JUNIPR: a framework for unsupervised and interpretable machine learning in particle physics (Anders Andreassen)](https://bids.berkeley.edu/events/smldg-2019-0304)
+  - [Efficient coding and language evolution: the case of color naming (Noga Zaslavskya)](https://bids.berkeley.edu/events/smldg-2019-0204)
+  - [Sampling vs Optimization (Yian Ma)](https://bids.berkeley.edu/events/smldg-2018-1210)
+  - [Deep Learning with symmetries (Tess Smidt)](https://bids.berkeley.edu/events/smldg-2018-1126)
+  - [Latest development in Recurrent Neural Networks (Ravi Krishna)](https://bids.berkeley.edu/events/smldg-2018-1015)
   - Fundamentals of graph theory and application to population migrations (Wooseok Ha)
-  - Deep Learning in Bio-imaging (Henry Pinkard)
+  - [Deep Learning in Bio-imaging (Henry Pinkard)](https://bids.berkeley.edu/events/smldg-2018-1001)
   - Applications of ML for High Energy Physics (Ben Nachman)
