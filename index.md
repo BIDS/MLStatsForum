@@ -7,17 +7,16 @@ layout: home
 The Berkeley Statistics and Machine Learning Forum meets biweekly to discuss current applications across a wide variety of research domains and software methodologies. Hosted by UC Berkeley Physics Professor and BIDS Senior Fellow [Uros Seljak](https://bids.berkeley.edu/people/uros-seljak), these active
 sessions bring together domain scientists, statisticians and computer scientists
 who are either developing state-of-the-art methods or are interested in applying
-these methods in their research.
-Participants are able to contribute actively and propose discussion topics in
-preparation for each meeting. The emphasis will be on applicative aspects of the
-methods. All interested members of the UC Berkeley, LBL and LLNL communities are welcome to attend.
+these methods in their research. Practical questions about the meetings can be
+directed to BIDS Fellow [Francois Lanusse](mailto:flanusse@berkeley.edu)
 
-Practical questions about the meetings can be directed to BIDS Fellow
-[Francois Lanusse](mailto:flanusse@berkeley.edu)
+
+To receive email notifications about the meetings and upvote papers for discussion
+please register [here](https://www.benty-fields.com/manage_jc?groupid=191).
 
 ### Upcoming sessions
 
-  - Sept. 9th: The Recursive Inference Machine, and applications to Astronomical and Medical imaging
+  - Sept. 9th: The Recurrent Inference Machine: applications to Astronomical and Medical imaging
 
 ### Previous sessions
 
