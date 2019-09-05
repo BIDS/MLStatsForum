@@ -4,7 +4,7 @@
 
 layout: home
 ---
-The Berkeley Statistics and Machine Learning Forum meets biweekly to discuss current applications across a wide variety of research domains and software methodologies. Hosted by UC Berkeley Physics Professor and BIDS Senior Fellow [Uros Seljak](https://bids.berkeley.edu/people/uros-seljak), these active
+The Berkeley Statistics and Machine Learning Forum meets biweekly to discuss current applications across a wide variety of research domains and software methodologies. Hosted by UC Berkeley Physics Professor and BIDS Senior Fellow [Uroš Seljak](https://bids.berkeley.edu/people/uros-seljak), these active
 sessions bring together domain scientists, statisticians and computer scientists
 who are either developing state-of-the-art methods or are interested in applying
 these methods in their research. Practical questions about the meetings can be
