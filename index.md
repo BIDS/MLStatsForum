@@ -12,7 +12,8 @@ directed to BIDS Fellow [Francois Lanusse](mailto:flanusse@berkeley.edu).
 
 
 To receive email notifications about the meetings and upvote papers for discussion
-please register [here](https://www.benty-fields.com/manage_jc?groupid=191).
+please register [here](https://www.benty-fields.com/register) and join the
+[Berkeley Statistics and Machine Learning Group](https://www.benty-fields.com/manage_jc?groupid=191).
 
 ### Upcoming sessions
 

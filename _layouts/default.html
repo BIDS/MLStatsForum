@@ -12,17 +12,19 @@
   </style>
 
   <body>
-
+      <div id="particles-js">
+        <div  style="position: absolute; left: 0; right: 0; margin: auto; pointer-events:none;">
     {%- include custom_header.html -%}
 
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
+    <main class="page-content" aria-label="Content" >
+      <div class="wrapper" style="backdrop-filter: blur(4px); pointer-events: auto;">
         {{ content }}
       </div>
     </main>
 
     {%- include custom_footer.html -%}
-
+  </div>
+    </div>
   <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
   <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
