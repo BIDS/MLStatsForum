@@ -19,7 +19,7 @@ please register [here](https://www.benty-fields.com/register) and join the
 
 ### Upcoming sessions
 
-  - Sept. 9th: The Recurrent Inference Machine: applications to Astronomical and Medical imaging
+  - Sept. 9th: [The Recurrent Inference Machine: applications to Astronomical and Medical imaging](https://bids.berkeley.edu/events/bsmlf-2019-0909)
 
 ### Previous sessions
 
@@ -31,6 +31,6 @@ please register [here](https://www.benty-fields.com/register) and join the
   - [Sampling vs Optimization (Yian Ma)](https://bids.berkeley.edu/events/smldg-2018-1210)
   - [Deep Learning with symmetries (Tess Smidt)](https://bids.berkeley.edu/events/smldg-2018-1126)
   - [Latest development in Recurrent Neural Networks (Ravi Krishna)](https://bids.berkeley.edu/events/smldg-2018-1015)
-  - Fundamentals of graph theory and application to population migrations (Wooseok Ha)
+  - [Fundamentals of graph theory and application to population migrations (Wooseok Ha)](https://bids.berkeley.edu/events/smldg-2018-1008)
   - [Deep Learning in Bio-imaging (Henry Pinkard)](https://bids.berkeley.edu/events/smldg-2018-1001)
-  - Applications of ML for High Energy Physics (Ben Nachman)
+  - [Applications of ML for High Energy Physics (Ben Nachman)](https://bids.berkeley.edu/events/smldg-2018-0924)
