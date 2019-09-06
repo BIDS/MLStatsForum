@@ -19,7 +19,7 @@ please register [here](https://www.benty-fields.com/register) and join the
 
 ### Upcoming sessions
 
-  - Sept. 9th: [The Recurrent Inference Machine: applications to Astronomical and Medical imaging](https://bids.berkeley.edu/events/bsmlf-2019-0909)
+  - Sept. 9th, 1:30pm [190 Doe Library](https://www.google.com/maps/place/Doe+Memorial+Library,+University+of+California,+Berkeley,+Berkeley,+CA+94704/@37.872208,-122.259493,15z/) : [The Recurrent Inference Machine: applications to Astronomical and Medical imaging](https://bids.berkeley.edu/events/bsmlf-2019-0909)
 
 ### Previous sessions
 
