@@ -23,7 +23,7 @@ please register [here](https://www.benty-fields.com/register) and join the
 
 ### Previous sessions
 
-  - [The Recurrent Inference Machine: applications to Astronomical and Medical imaging](https://bids.berkeley.edu/events/bsmlf-2019-0909) [slides](https://slides.com/eiffl/rim)
+  - [The Recurrent Inference Machine: applications to Astronomical and Medical imaging](https://bids.berkeley.edu/events/bsmlf-2019-0909) [ [slides](https://slides.com/eiffl/rim) ]
   - [Interpretable machine learning - what does it actually mean? (Jamie Murdoch)](https://bids.berkeley.edu/events/smldg-2019-0415)
   - [Learning on unstructured spherical grids (Max Jiang)](https://bids.berkeley.edu/events/smldg-2019-0401)
   - [Power of gradients and accept-reject step in MCMC algorithms (Raaz Dwivedi)](https://bids.berkeley.edu/events/smldg-2019-0318)
