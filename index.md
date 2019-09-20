@@ -19,7 +19,7 @@ please register [here](https://www.benty-fields.com/register) and join the
 
 ### Upcoming sessions
 
-  - Sept. 23rd, 1:30pm, Inverse problems in Geophysics, [Lindsey Heagy](https://lindseyjh.ca/)
+  - Sept. 23rd, 1:30pm, Machine Learning for Approximating Sub-Grid Physics in Electromagnetic Geophysics, [Lindsey Heagy](https://lindseyjh.ca/)
 
 ### Previous sessions
 
