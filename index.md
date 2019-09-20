@@ -17,9 +17,11 @@ To receive email notifications about the meetings and upvote papers for discussi
 please register [here](https://www.benty-fields.com/register) and join the
 [Berkeley Statistics and Machine Learning Forum](https://www.benty-fields.com/manage_jc?groupid=191).
 
+Our meetings are located in the BIDS space for the semester (190 Doe Library).
+
 ### Upcoming sessions
 
-  - Sept. 23rd, 1:30pm, Machine Learning for Approximating Sub-Grid Physics in Electromagnetic Geophysics, [Lindsey Heagy](https://lindseyjh.ca/)
+  - Sept. 23rd, 1:30pm, **Machine Learning for Approximating Sub-Grid Physics in Electromagnetic Geophysics**, [Lindsey Heagy](https://lindseyjh.ca/)
 
 ### Previous sessions
 
