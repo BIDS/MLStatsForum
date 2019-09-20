@@ -19,12 +19,12 @@ please register [here](https://www.benty-fields.com/register) and join the
 
 ### Upcoming sessions
 
-  - Sept. 23rd, 1:30pm, TBD
+  - Sept. 23rd, 1:30pm, Inverse problems in Geophysics, [Lindsey Heagy](https://lindseyjh.ca/)
 
 ### Previous sessions
 
   - [The Recurrent Inference Machine: applications to Astronomical and Medical imaging](https://bids.berkeley.edu/events/bsmlf-2019-0909)
-  
+
     [ [slides](https://slides.com/eiffl/rim) ]
 
   - [Interpretable machine learning - what does it actually mean? (Jamie Murdoch)](https://bids.berkeley.edu/events/smldg-2019-0415)
