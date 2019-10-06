@@ -21,14 +21,12 @@ Our meetings are located in the BIDS space for the semester (190 Doe Library).
 
 ### Upcoming sessions
 
-  - Sept. 23rd, 1:30pm, **Machine Learning for Approximating Sub-Grid Physics in Electromagnetic Geophysics**, [Lindsey Heagy](https://lindseyjh.ca/)
+  - Oct. 7th, 1:30pm, **Neural Ordinary Differential Equations**, [Amir Gholami](http://amirgholami.org/)
 
 ### Previous sessions
 
+  - [Machine Learning for Approximating Sub-Grid Physics in Electromagnetic Geophysics (Lindsey Heagy)](https://bids.berkeley.edu/events/bsmlf-2019-0923)
   - [The Recurrent Inference Machine: applications to Astronomical and Medical imaging](https://bids.berkeley.edu/events/bsmlf-2019-0909)
-
-    [ [slides](https://slides.com/eiffl/rim) ]
-
   - [Interpretable machine learning - what does it actually mean? (Jamie Murdoch)](https://bids.berkeley.edu/events/smldg-2019-0415)
   - [Learning on unstructured spherical grids (Max Jiang)](https://bids.berkeley.edu/events/smldg-2019-0401)
   - [Power of gradients and accept-reject step in MCMC algorithms (Raaz Dwivedi)](https://bids.berkeley.edu/events/smldg-2019-0318)
