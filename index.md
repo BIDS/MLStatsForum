@@ -21,10 +21,11 @@ Our meetings are located in the BIDS space for the semester (190 Doe Library).
 
 ### Upcoming sessions
 
-  - Oct. 21st, 1:30pm, **Uncertainties in Neural Networks: Methods and Applications**
+  - Nov. 4th, 1:30pm, **Anomaly Detection meets Deep Learning**
 
 ### Previous sessions
 
+  - [Uncertainties in Neural Networks: Methods and Applications](https://bids.berkeley.edu/events/bsmlf-2019-1021)
   - [Neural Ordinary Differential Equations](https://bids.berkeley.edu/events/bsmlf-2019-1007)
   - [Machine Learning for Approximating Sub-Grid Physics in Electromagnetic Geophysics (Lindsey Heagy)](https://bids.berkeley.edu/events/bsmlf-2019-0923)
   - [The Recurrent Inference Machine: applications to Astronomical and Medical imaging](https://bids.berkeley.edu/events/bsmlf-2019-0909)
