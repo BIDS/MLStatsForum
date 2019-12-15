@@ -21,10 +21,12 @@ Our meetings are located in the BIDS space for the semester (190 Doe Library).
 
 ### Upcoming sessions
 
-  - Nov. 18th, 1:30pm, [**The role of machine learning in building an earthquake disaster platform**, Qingkai Kong](https://bids.berkeley.edu/events/bsmlf-2019-1118)
+  - Dec. 16th, 1:30pm, [**A family of algorithms for interpreting manifold embedding coordinates in molecular dynamics data**, Samson Koelle](https://bids.berkeley.edu/events/bsmlf-2019-1216)
 
 ### Previous sessions
 
+  - [Probing Dark Matter with Strong Gravitational Lensing, Simon Birrer](https://bids.berkeley.edu/events/bsmlf-2019-1202)
+  - [The role of machine learning in building an earthquake disaster platform, Qingkai Kong](https://bids.berkeley.edu/events/bsmlf-2019-1118)
   - [Anomaly Detection meets Deep Learning](https://bids.berkeley.edu/events/bsmlf-2019-1104)
   - [Uncertainties in Neural Networks: Methods and Applications](https://bids.berkeley.edu/events/bsmlf-2019-1021)
   - [Neural Ordinary Differential Equations](https://bids.berkeley.edu/events/bsmlf-2019-1007)
