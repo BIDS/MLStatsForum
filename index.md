@@ -4,27 +4,37 @@
 
 layout: home
 ---
-The Berkeley Statistics and Machine Learning Forum meets biweekly to discuss current applications across a wide variety of research domains and software methodologies. Hosted by UC Berkeley Physics Professor and BIDS Senior Fellow [Uroš Seljak](https://bids.berkeley.edu/people/uros-seljak), these active
+The Machine Learning and Science Forum (formerly the Berkeley Statistics and Machine Learning Forum) meets biweekly to discuss current applications across a wide variety of research domains in the physical sciences and beyond.  Hosted by UC Berkeley Physics Professor and BIDS Senior Fellow [Uroš Seljak](https://bids.berkeley.edu/people/uros-seljak), these active sessions bring together domain scientists, statisticians, and computer scientists who are either developing state-of-the-art methods or are interested in applying these methods in their research. Practical questions about the meetings can be directed to Ben Nachman (bpnachman@lbl.gov), Vanessa Boehm (vboehm@berkeley.edu), and/or Marin Bukov (mgbukov@berkeley.edu).  To receive email notifications about upcoming meetings, please register here.  All interested members of the UC Berkeley and Berkeley Lab communities are welcome and encouraged to attend.
+
+<!--The Berkeley Statistics and Machine Learning Forum meets biweekly to discuss current applications across a wide variety of research domains and software methodologies. Hosted by UC Berkeley Physics Professor and BIDS Senior Fellow [Uroš Seljak](https://bids.berkeley.edu/people/uros-seljak), these active
 sessions bring together domain scientists, statisticians and computer scientists
 who are either developing state-of-the-art methods or are interested in applying
 these methods in their research. Practical questions about the meetings can be
-directed to BIDS Data Science Fellow [François Lanusse](https://bids.berkeley.edu/people/fran%C3%A7ois-lanusse).
+directed to BIDS Data Science Fellow [François Lanusse](https://bids.berkeley.edu/people/fran%C3%A7ois-lanusse). -->
 
-All interested members of the UC Berkeley and LBL communities are welcome and
+All interested members of the UC Berkeley and LBNL communities are welcome and
 encouraged to attend.
 
-To receive email notifications about the meetings and upvote papers for discussion
+<!--To receive email notifications about the meetings and upvote papers for discussion
 please register [here](https://www.benty-fields.com/register) and join the
-[Berkeley Statistics and Machine Learning Forum](https://www.benty-fields.com/manage_jc?groupid=191).
+[Berkeley Statistics and Machine Learning Forum](https://www.benty-fields.com/manage_jc?groupid=191). -->
 
 Our meetings are located in the BIDS space for the semester (190 Doe Library).
 
 ### Upcoming sessions
 
-  - Dec. 16th, 1:30pm, [**A family of algorithms for interpreting manifold embedding coordinates in molecular dynamics data**, Samson Koelle](https://bids.berkeley.edu/events/bsmlf-2019-1216)
+  - January 27, 2020, 1:30pm: TBD
+  - February 10, 2020, 1:30pm: TBD
+  - February 24, 2020, 1:30pm: TBD
+  - March 9, 2020, 1:30pm: TBD
+  - March 23, 2020, 1:30pm: TBD
+  - April 6, 2020, 1:30pm: TBD
+  - April 20, 2020, 1:30pm: TBD
+  - May 4, 2020, 1:30pm: TBD
 
 ### Previous sessions
 
+  - [A family of algorithms for interpreting manifold embedding coordinates in molecular dynamics data, Samson Koelle](https://bids.berkeley.edu/events/bsmlf-2019-1216)
   - [Probing Dark Matter with Strong Gravitational Lensing, Simon Birrer](https://bids.berkeley.edu/events/bsmlf-2019-1202)
   - [The role of machine learning in building an earthquake disaster platform, Qingkai Kong](https://bids.berkeley.edu/events/bsmlf-2019-1118)
   - [Anomaly Detection meets Deep Learning](https://bids.berkeley.edu/events/bsmlf-2019-1104)
