@@ -20,6 +20,8 @@ encouraged to attend.  To recieve email notifications about meetings, please joi
 please register [here](https://www.benty-fields.com/register) and join the
 [Berkeley Statistics and Machine Learning Forum](https://www.benty-fields.com/manage_jc?groupid=191). -->
 
+**Please sign up for our google group on https://groups.google.com/forum/#!forum/berkeleymlforum in order to receive updates and announcements**
+
 Our meetings are located in the BIDS space for the semester (190 Doe Library).
 
 ### Upcoming sessions
