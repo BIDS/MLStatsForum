@@ -29,7 +29,7 @@ Our meetings are located in the BIDS space for the semester (190 Doe Library).
   - January 27, 2020, 1:30pm: Marin Bukov (Physics, UC Berkeley).  Title: Reinforcement Learning to Control Quantum Systems.
   - February 10, 2020, 1:30pm: Wahid Bhimji (NERSC): Title: Probabilistic programming and Deep Learning at scale for science.
   - February 24, 2020, 1:30pm: Stephan Hoyer (Google). Title: TBD.
-  - March 9, 2020, 1:30pm: Charles Fisher (Unlearn.AI). Title: TBD.
+  - March 9, 2020, 1:30pm: Charles Fisher (Unlearn.AI). Title: BoltGAN Machines and Applications in Medicine.
   - March 23, 2020, 1:30pm: TBD
   - April 6, 2020, 1:30pm: Yang Song (Computer Science Department, Stanford). Title: TBD
   - April 20, 2020, 1:30pm: Sam Hopkins (EECS Theory group, UC Berkeley).  Title: TBD.
