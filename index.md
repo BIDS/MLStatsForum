@@ -31,8 +31,8 @@ Our meetings are located in the BIDS space for the semester (190 Doe Library).
   - February 24, 2020, 1:30pm: Stephan Hoyer (Google). Title: TBD.
   - March 9, 2020, 1:30pm: Charles Fisher (Unlearn.AI). Title: BoltGAN Machines and Applications in Medicine.
   - March 23, 2020, 1:30pm: Vanessa Boehm (UC Berkeley). Title: Deep Generative Models for Scientific Applications
-  - April 6, 2020, 1:30pm: Yang Song (Computer Science Department, Stanford). Title: TBD
-  - April 20, 2020, 1:30pm: Sam Hopkins (EECS Theory group, UC Berkeley).  Title: TBD.
+  - April 6, 2020, 1:30pm: Yang Song (Computer Science Department, Stanford). Title: Estimating Gradients of Distributions for Generative Modeling
+  - April 20, 2020, 1:30pm: Samuel Hopkins (EECS Theory group, UC Berkeley).  Title: TBD.
   - May 4, 2020, 1:30pm: Jack Collins (Physics, SLAC).  Title: TBD.
 
 ### Previous sessions
