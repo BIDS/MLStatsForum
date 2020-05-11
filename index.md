@@ -35,6 +35,10 @@ Our meetings are located in the BIDS space for the semester (190 Doe Library).
   - April 20, 2020, 1:30pm: Samuel Hopkins (EECS Theory group, UC Berkeley).  Title: TBD.
   - May 4, 2020, 1:30pm: Jack Collins (Physics, SLAC).  Title: TBD.
   - May 11, 2020, 1:30pm: Jason Rocks (Physics, Boston University).  Title: Over-fitting in Modern Supervised Learning: Memorization, Interpolation, and Decomposition of Errors.
+  - May 25, 2020, 1:30pm: 
+  - June 8, 2020, 1:30pm:
+  - June 22, 2020, 1:30pm:
+  
 
 ### Previous sessions
 
