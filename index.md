@@ -28,15 +28,15 @@ Our meetings are located in the BIDS space for the semester (190 Doe Library).
 
   - January 27, 2020, 1:30pm: Marin Bukov (Physics, UC Berkeley).  Title: Reinforcement Learning to Control Quantum Systems.
   - February 10, 2020, 1:30pm: Wahid Bhimji (NERSC): Title: Probabilistic programming and Deep Learning at scale for science.
-  - February 24, 2020, 1:30pm: Stephan Hoyer (Google). Title: TBD.
+  - February 24, 2020, 1:30pm: Stephan Hoyer (Google). Title: Deep learning for PDEs, and scientific computing with JAX.
   - March 9, 2020, 1:30pm: Charles Fisher (Unlearn.AI). Title: BoltGAN Machines and Applications in Medicine.
   - March 23, 2020, 1:30pm: Vanessa Boehm (UC Berkeley). Title: Deep Generative Models for Scientific Applications
   - April 6, 2020, 1:30pm: Yang Song (Computer Science Department, Stanford). Title: Estimating Gradients of Distributions for Generative Modeling
-  - April 20, 2020, 1:30pm: Samuel Hopkins (EECS Theory group, UC Berkeley).  Title: TBD.
-  - May 4, 2020, 1:30pm: Jack Collins (Physics, SLAC).  Title: TBD.
+  - April 20, 2020, 1:30pm: Samuel Hopkins (EECS Theory group, UC Berkeley).  Title: Robust Mean Estimation in Nearly-Linear Time, with Applications to Outlier Removal.
+  - May 4, 2020, 1:30pm: Jack Collins (Physics, SLAC).  Title: Representation Learning for Particle Collider Events.
   - May 11, 2020, 1:30pm: Jason Rocks (Physics, Boston University).  Title: Over-fitting in Modern Supervised Learning: Memorization, Interpolation, and Decomposition of Errors.
   - June 1, 2020, 1:30pm: Joaquin Rodriguez Nieva (Physics, Stanford). Title: Identifying topological order through unsupervised machine learning
-  - June 15, 2020, 1:30pm:
+  - June 15, 2020, 1:30pm: Michaela Paganini (Facebook AI Research).  Title: TBD.
   - June 29, 2020, 1:30pm:
   
   
