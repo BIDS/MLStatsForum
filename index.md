@@ -24,7 +24,18 @@ Please, **sign up for our google group** on [berkeleymlforum](https://groups.goo
 
 Our meetings are located in the BIDS space for the semester (190 Doe Library).
 
-### Upcoming sessions
+### 2020-2021
+
+  - September 14, 2020, Time TBD:  Michaela Paganini (Facebook AI Research).  Title: TBD.
+  - September 28, 2020, Time TBD: Speaker TBD.  Title: TBD.
+  - October 12, 2020, Time TBD: Speaker TBD.  Title: TBD.
+  - October 26, 2020, Time TBD: Speaker TBD.  Title: TBD.
+  - November 9, 2020, Time TBD: Speaker TBD.  Title: TBD.
+  - November 23, 2020, Time TBD: Speaker TBD.  Title: TBD.
+  - December 7, 2020, Time TBD: Speaker TBD.  Title: TBD.
+  - December 21, 2020, Time TBD: Speaker TBD.  Title: TBD.
+
+### 2019-2020
 
   - January 27, 2020, 1:30pm: Marin Bukov (Physics, UC Berkeley).  Title: Reinforcement Learning to Control Quantum Systems.
   - February 10, 2020, 1:30pm: Wahid Bhimji (NERSC): Title: Probabilistic programming and Deep Learning at scale for science.
@@ -36,8 +47,6 @@ Our meetings are located in the BIDS space for the semester (190 Doe Library).
   - May 4, 2020, 1:30pm: Jack Collins (Physics, SLAC).  Title: Representation Learning for Particle Collider Events.
   - May 11, 2020, 1:30pm: Jason Rocks (Physics, Boston University).  Title: Over-fitting in Modern Supervised Learning: Memorization, Interpolation, and Decomposition of Errors.
   - June 1, 2020, 1:30pm: Joaquin Rodriguez Nieva (Physics, Stanford). Title: Identifying topological order through unsupervised machine learning
-  - June 15, 2020, 1:30pm: Michaela Paganini (Facebook AI Research).  Title: TBD.
-  - June 29, 2020, 1:30pm:
   
   
 
