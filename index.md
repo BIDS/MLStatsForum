@@ -26,14 +26,14 @@ Our meetings are located in the BIDS space for the semester (190 Doe Library).
 
 ### 2020-2021
 
-  - September 14, 2020, Time TBD:  Michaela Paganini (Facebook AI Research).  Title: Comprehension is compression: understanding neural networks through pruning and the lottery ticket hypothesis.
-  - September 28, 2020, Time TBD: Chirag Modi (UC Berkeley).  Title: TBD.
-  - October 12, 2020, Time TBD: Speaker TBD.  Title: TBD.
-  - October 26, 2020, Time TBD: Speaker TBD.  Title: TBD.
-  - November 9, 2020, Time TBD: Xiangyang Ju (LBNL). Title: TBD.
-  - November 23, 2020, Time TBD: Speaker TBD.  Title: TBD.
-  - December 7, 2020, Time TBD: Speaker TBD.  Title: TBD.
-  - December 21, 2020, Time TBD: Speaker TBD.  Title: TBD.
+  - September 14, 2020, Time 11 am:  Michaela Paganini (Facebook AI Research).  Title: Comprehension is compression: understanding neural networks through pruning and the lottery ticket hypothesis.
+  - September 28, 2020, Time 11 am: Chirag Modi (UC Berkeley).  Title: TBD.
+  - October 12, 2020, Time 11 am: Speaker TBD.  Title: TBD.
+  - October 26, 2020, Time 11 am: Yasaman Bahri (Google).  Title: TBD.
+  - November 9, 2020, Time 11 am: Xiangyang Ju (LBNL). Title: TBD.
+  - November 23, 2020, Time 11 am: Speaker TBD.  Title: TBD.
+  - December 7, 2020, Time 11 am: Speaker TBD.  Title: TBD.
+  - December 21, 2020, Time 11 am: Speaker TBD.  Title: TBD.
 
 ### 2019-2020
 
