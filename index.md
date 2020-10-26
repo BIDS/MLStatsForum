@@ -31,9 +31,9 @@ Our meetings are located in the BIDS space for the semester (190 Doe Library).
   - October 12, 2020, Time 11 am: Adam Sadilek (Google).  Title: Machine-Learned Epidemiology.
   - October 26, 2020, Time 11 am: Yasaman Bahri (Google).  Title: The Large Learning Rate Phase of Deep Learning.
   - November 9, 2020, Time 11 am: Xiangyang Ju (LBNL). Title: TBD.
-  - November 23, 2020, Time 11 am: Speaker TBD.  Title: TBD.
+  - November 23, 2020, Time 11 am: Nicole Hartman (SLAC).  Title: TBD.
   - December 7, 2020, Time 11 am: Ian Convy (UC Berkeley).  Title: Mutual Information Estimation for Tensor Network Machine Learning.
-  - December 21, 2020, Time 11 am: Speaker Debbie Bard.  Title: TBD.
+  - December 21, 2020, Time 11 am: Speaker Debbie Bard (NERSC).  Title: TBD.
 
 ### 2019-2020
 
