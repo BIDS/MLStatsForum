@@ -33,7 +33,7 @@ Our meetings are located in the BIDS space for the semester (190 Doe Library).
   - November 9, 2020, Time 11 am: Xiangyang Ju (LBNL). Title: TBD.
   - November 23, 2020, Time 11 am: Speaker TBD.  Title: TBD.
   - December 7, 2020, Time 11 am: Ian Convy (UC Berkeley).  Title: Mutual Information Estimation for Tensor Network Machine Learning.
-  - December 21, 2020, Time 11 am: Speaker TBD.  Title: TBD.
+  - December 21, 2020, Time 11 am: Speaker Debbie Bard.  Title: TBD.
 
 ### 2019-2020
 
