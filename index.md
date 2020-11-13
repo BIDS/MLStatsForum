@@ -26,6 +26,7 @@ Our meetings are located in the BIDS space for the semester (190 Doe Library).
 
 ### 2020-2021
 
+# Fall semester
   - September 14, 2020, Time 11 am:  Michaela Paganini (Facebook AI Research).  Title: Comprehension is compression: understanding neural networks through pruning and the lottery ticket hypothesis.
   - September 28, 2020, Time 11 am: Chirag Modi (UC Berkeley). Title: FlowPM: Distributed TensorFlow Implementation of Cosmological N-body Solver.
   - October 12, 2020, Time 11 am: Adam Sadilek (Google).  Title: Machine-Learned Epidemiology.
@@ -34,6 +35,20 @@ Our meetings are located in the BIDS space for the semester (190 Doe Library).
   - November 23, 2020, Time 11 am: Nicole Hartman (SLAC).  Title: TBD.
   - December 7, 2020, Time 11 am: Ian Convy (UC Berkeley).  Title: Mutual Information Estimation for Tensor Network Machine Learning.
   - December 21, 2020, Time 11 am: Speaker Debbie Bard (NERSC).  Title: TBD.
+
+# Spring semester
+  - January 25, 2021, Time 11 am: Speaker TBD.
+  - February 8, 2021, Time 11 am: Speaker TBD.
+  - February 22, 2021, Time 11 am: Speaker TBD.  
+  - March 8, 2021, Time 11 am: Speaker TBD.
+  - March 22, 2021, Time 11 am: Speaker TBD.  
+  - April 5, 2021, Time 11 am: Speaker TBD.
+  - April 19, 2021, Time 11 am: Speaker TBD. 
+  - May 3, 2021, Time 11 am: Speaker TBD. 
+  - May 17, 2021, Time 11 am: Speaker TBD. 
+  - May 31, 2021, Time 11 am: Speaker TBD. 
+  - June 14, 2021, Time 11 am: Speaker TBD. 
+  - June 28, 2021, Time 11 am: Speaker TBD. 
 
 ### 2019-2020
 
