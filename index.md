@@ -46,7 +46,6 @@ Our meetings are located in the BIDS space for the semester (190 Doe Library).
   - April 19, 2021, Time 11 am: Speaker TBD. 
   - May 3, 2021, Time 11 am: Speaker TBD. 
   - May 17, 2021, Time 11 am: Alejandro Queiruga (Google Research). Title: TBD. 
-  - May 31, 2021, Time 11 am: Speaker TBD. 
   - June 14, 2021, Time 11 am: Speaker TBD. 
   - June 28, 2021, Time 11 am: Speaker TBD. 
 
