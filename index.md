@@ -34,10 +34,10 @@ Our meetings are located in the BIDS space for the semester (190 Doe Library).
   - November 9, 2020, Time 11 am: Xiangyang Ju (LBNL). Title: First-class machine learning model for Science: Graph Neural Network.
   - November 23, 2020, Time 11 am: Nicole Hartman (SLAC).  Title: Set and Sequence Machine Learning for Particle Identification at the Large Hadron Collider.
   - December 7, 2020, Time 11 am: Ian Convy (UC Berkeley).  Title: Mutual Information Estimation for Tensor Network Machine Learning.
-  - December 21, 2020, Time 11 am: Speaker Debbie Bard (NERSC).  Title: TBD.
+  - December 21, 2020, Time 11 am: Christmas break. Happy Holidays!
 
 # Spring semester
-  - January 25, 2021, Time 11 am: Speaker TBD.
+  - January 25, 2021, Time 11 am: Speaker Debbie Bard (NERSC).  Title: TBD.
   - February 8, 2021, Time 11 am: Speaker TBD.
   - February 22, 2021, Time 11 am: Speaker TBD.  
   - March 8, 2021, Time 11 am: Speaker TBD.
