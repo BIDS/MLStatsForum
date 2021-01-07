@@ -38,7 +38,7 @@ Our meetings are located in the BIDS space for the semester (190 Doe Library).
 
 # Spring semester
   - January 25, 2021, Time 11 am: Speaker Debbie Bard (NERSC).  Title: TBD.
-  - February 8, 2021, Time 11 am: Speaker TBD.
+  - February 8, 2021, Time 11 am: Omri Azencot (Ben-Gurion Univeristy). Title: TBD.
   - February 22, 2021, Time 11 am: Speaker TBD.  
   - March 8, 2021, Time 11 am: Speaker TBD.
   - March 22, 2021, Time 11 am: Speaker TBD.  
@@ -46,7 +46,7 @@ Our meetings are located in the BIDS space for the semester (190 Doe Library).
   - April 19, 2021, Time 11 am: Speaker TBD. 
   - May 3, 2021, Time 11 am: Speaker TBD. 
   - May 17, 2021, Time 11 am: Alejandro Queiruga (Google Research). Title: TBD. 
-  - June 14, 2021, Time 11 am: Speaker TBD. 
+  - June 14, 2021, Time 11 am: Akshunna Shaurya Dogra (UC Berkeley). Title: TBD. 
   - June 28, 2021, Time 11 am: Speaker TBD. 
 
 ### 2019-2020
