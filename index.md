@@ -43,10 +43,10 @@ Our meetings are located in the BIDS space for the semester (190 Doe Library).
   - March 8, 2021, Time 11 am: Speaker TBD.
   - March 22, 2021, Time 11 am: Speaker TBD.  
   - April 5, 2021, Time 11 am: Speaker TBD.
-  - April 19, 2021, Time 11 am: Speaker TBD. 
+  - April 19, 2021, Time 11 am: Akshunna Shaurya Dogra (UC Berkeley). Title: TBD.  
   - May 3, 2021, Time 11 am: Geoffrey Negiar (UC Berkeley). Title: TBD. 
   - May 17, 2021, Time 11 am: Alejandro Queiruga (Google Research). Title: TBD. 
-  - June 14, 2021, Time 11 am: Akshunna Shaurya Dogra (UC Berkeley). Title: TBD. 
+  - June 14, 2021, Time 11 am: Liam Hodgkinson. Title: TBD. 
   - June 28, 2021, Time 11 am: Speaker TBD. 
 
 ### 2019-2020
