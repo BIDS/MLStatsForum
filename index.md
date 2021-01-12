@@ -40,7 +40,7 @@ Our meetings are located in the BIDS space for the semester (190 Doe Library).
   - January 25, 2021, Time 11 am: Debbie Bard (NERSC).  Title: TBD.
   - February 8, 2021, Time 11 am: Omri Azencot (Ben-Gurion Univeristy). Title: TBD.
   - February 22, 2021, Time 11 am: Soon Hoe Lim (KTH). Title: TBD.  
-  - March 8, 2021, Time 11 am: Speaker TBD.
+  - March 8, 2021, Time 11 am: George Stein (LBL / UC Berkeley). Title: TBD.
   - March 22, 2021, Time 11 am: Speaker TBD.  
   - April 5, 2021, Time 11 am: Speaker TBD.
   - April 19, 2021, Time 11 am: Akshunna Shaurya Dogra (UC Berkeley). Title: TBD.  
