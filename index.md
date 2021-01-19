@@ -41,7 +41,7 @@ Our meetings are located in the BIDS space for the semester (190 Doe Library).
   - February 8, 2021, Time 11 am: Omri Azencot (Ben-Gurion Univeristy). Title: TBD.
   - February 22, 2021, Time 11 am: Soon Hoe Lim (KTH). Title: TBD.  
   - March 8, 2021, Time 11 am: George Stein (LBL / UC Berkeley). Title: TBD.
-  - March 22, 2021, Time 11 am: Speaker TBD.  
+  - March 22, 2021, Time 11 am: Jascha Sohl-Dickstein. Title: TBD.
   - April 5, 2021, Time 11 am: Christian Herwig (Fermilab). Title: TBD.
   - April 19, 2021, Time 11 am: Akshunna Shaurya Dogra (UC Berkeley). Title: TBD.  
   - May 3, 2021, Time 11 am: Geoffrey Negiar (UC Berkeley). Title: TBD. 
