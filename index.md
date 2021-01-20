@@ -37,7 +37,7 @@ Our meetings are located in the BIDS space for the semester (190 Doe Library).
   - December 21, 2020, Time 11 am: Christmas break. Happy Holidays!
 
 # Spring semester
-  - January 25, 2021, Time 11 am: Debbie Bard (NERSC).  Title: TBD.
+  - January 25, 2021, Time 11 am: Debbie Bard (NERSC).  Title: AI at the exascale.
   - February 8, 2021, Time 11 am: Omri Azencot (Ben-Gurion Univeristy). Title: TBD.
   - February 22, 2021, Time 11 am: Soon Hoe Lim (KTH). Title: TBD.  
   - March 8, 2021, Time 11 am: George Stein (LBL / UC Berkeley). Title: TBD.
