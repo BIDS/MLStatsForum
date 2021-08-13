@@ -7,6 +7,8 @@ layout: home
 
 The [Berkeley Institute for Data Science](https://bids.berkeley.edu) (BIDS) <b>Machine Learning and Science Forum</b> meets biweekly to discuss current applications across a wide variety of research domains in the physical sciences and beyond. Hosted by BIDS Affiliates Physics Professor [Uroš Seljak](https://bids.berkeley.edu/people/uros-seljak) and LBNL Physics Staff Scientist [Ben Nachman](https://bids.berkeley.edu/people/benjamin-nachman), these active sessions bring together domain scientists, statisticians, and computer scientists who are either developing state-of-the-art methods or are interested in applying these methods in their research. All interested members of the UC Berkeley and Berkeley Lab communities are welcome and encouraged to attend. To receive email notifications about upcoming meetings, or to request more information, please contact the organizers (Vanessa Boehm, Ben Erichson, and Ben Nachman) at [berkeleymlforum@gmail.com](mailto:berkeleymlforum@gmail.com).
 
+See also the [BIDS event listing](https://bids.berkeley.edu/research/machine-learning-and-science-forum).
+
 <!--The Berkeley Statistics and Machine Learning Forum meets biweekly to discuss current applications across a wide variety of research domains and software methodologies. Hosted by UC Berkeley Physics Professor and BIDS Senior Fellow [Uroš Seljak](https://bids.berkeley.edu/people/uros-seljak), these active
 sessions bring together domain scientists, statisticians and computer scientists
 who are either developing state-of-the-art methods or are interested in applying
@@ -39,15 +41,13 @@ Our meetings are located in the BIDS space for the semester (190 Doe Library).
 # Spring semester
   - January 25, 2021, Time 11 am: Debbie Bard (NERSC).  Title: AI at the exascale.
   - February 8, 2021, Time 11 am: Omri Azencot (Ben-Gurion Univeristy). Title: Latent Vector Recurrent Models.
-  - February 22, 2021, Time 11 am: Soon Hoe Lim (KTH). Title: TBD  
-  - March 8, 2021, Time 11 am: George Stein (LBL / UC Berkeley). Title: TBD.
-  - March 22, 2021, Time 11 am: Jascha Sohl-Dickstein (Google). Title: TBD.
-  - April 5, 2021, Time 11 am: Christian Herwig (Fermilab). Title: TBD.
-  - April 19, 2021, Time 11 am: Akshunna Shaurya Dogra (UC Berkeley). Title: TBD.  
-  - May 3, 2021, Time 11 am: Nikhil Rao (Amazon). Title: TBD. 
-  - May 17, 2021, Time 11 am: Alejandro Queiruga (Google Research). Title: TBD. 
-  - June 14, 2021, Time 11 am: Liam Hodgkinson. Title: TBD. 
-  - June 28, 2021, Time 11 am: Francisco Utrera. Title: TBD. 
+  - February 22, 2021, Time 11 am: Soon Hoe Lim (KTH). Title: Noisy Recurrent Neural Networks  
+  - March 8, 2021, Time 11 am: George Stein (LBL / UC Berkeley). Title:  Self-Supervised Representation Learning for Astronomical Images.
+  - March 22, 2021, Time 11 am: Jascha Sohl-Dickstein (Google). Title: Understanding overparameterized neural networks.
+  - April 5, 2021, Time 11 am: Christian Herwig (Fermilab). Title:  An ML Control System for the Fermilab Booster.
+  - April 19, 2021, Time 11 am: Akshunna Shaurya Dogra (UC Berkeley). Title:  Improving neural network based equations solvers.  
+  - May 3, 2021, Time 11 am: Nikhil Rao (Amazon). Title: HypE: Learning Knowledge Graph Entity Representations in Hyperbolic Space. 
+  - June 14, 2021, Time 11 am: Liam Hodgkinson (UC Berkeley). Title: Training stochastic differential equation models using ordinary differential equations. 
 
 ### 2019-2020
 
