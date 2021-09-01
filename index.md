@@ -26,6 +26,50 @@ Please, **sign up for our google group** on [berkeleymlforum](https://groups.goo
 
 Our meetings are located in the BIDS space for the semester (190 Doe Library).
 
+9/13/2021
+9/27/2021
+10/11/2021
+10/25/2021
+11/8/2021
+11/22/2021
+12/6/2021
+12/13/2021
+1/24/2022
+2/7/2022
+2/21/2022
+3/7/2022
+3/21/2022
+4/4/2022
+4/18/2022
+5/2/2022
+5/16/2022
+5/30/2022
+
+### 2021-2022
+
+# Fall semester
+
+  - September 13, 2021, Time 11 am: Speaker TBD.
+  - September 27, 2021, Time 11 am: Speaker TBD.
+  - October 11, 2021, Time 11 am: Speaker TBD.
+  - October 25, 2021, Time 11 am: Speaker TBD.
+  - November 8, 2021, Time 11 am: Speaker TBD.
+  - November 22, 2021, Time 11 am: Speaker TBD.
+  - December 6, 2021, Time 11 am: Speaker TBD.
+  - December 13, 2021, Time 11 am: Speaker TBD.
+
+# Spring semester
+
+  - January 24, 2022, Time 11 am: Speaker TBD.
+  - February 7, 2022, Time 11 am: Speaker TBD.
+  - March 7, 2022, Time 11 am: Speaker TBD.
+  - March 21, 2022, Time 11 am: Speaker TBD.
+  - April 4, 2022, Time 11 am: Speaker: Timnit Gebru.  Title: TBD.
+  - April 18, 2022, Time 11 am: Speaker TBD.
+  - May 2, 2022, Time 11 am: Speaker TBD.
+  - May 16, 2022, Time 11 am: Speaker TBD.
+  - May 30, 2022, Time 11 am: Speaker TBD.
+
 ### 2020-2021
 
 # Fall semester
