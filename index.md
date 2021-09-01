@@ -24,26 +24,7 @@ please register [here](https://www.benty-fields.com/register) and join the
 
 Please, **sign up for our google group** on [berkeleymlforum](https://groups.google.com/forum/#!forum/berkeleymlforum) in order to receive updates and announcements!
 
-Our meetings are located in the BIDS space for the semester (190 Doe Library).
-
-9/13/2021
-9/27/2021
-10/11/2021
-10/25/2021
-11/8/2021
-11/22/2021
-12/6/2021
-12/13/2021
-1/24/2022
-2/7/2022
-2/21/2022
-3/7/2022
-3/21/2022
-4/4/2022
-4/18/2022
-5/2/2022
-5/16/2022
-5/30/2022
+Our meetings are located in the BIDS space (190 Doe Library), but are currently being held on Zoom until further notice.
 
 ### 2021-2022
 
