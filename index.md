@@ -16,7 +16,7 @@ these methods in their research. Practical questions about the meetings can be
 directed to BIDS Data Science Fellow [François Lanusse](https://bids.berkeley.edu/people/fran%C3%A7ois-lanusse). -->
 
 All interested members of the UC Berkeley and LBNL communities are welcome and
-encouraged to attend.  To recieve email notifications about meetings, please join the BIDS mailing list [here](https://bids.berkeley.edu/join-bids-mailing-list).  The traffic on this list is minimal (1-2 emails/week).
+encouraged to attend.  To receive email notifications about meetings, please join the BIDS mailing list [here](https://bids.berkeley.edu/join-bids-mailing-list).  The traffic on this list is minimal (1-2 emails/week).
 
 <!--To receive email notifications about the meetings and upvote papers for discussion
 please register [here](https://www.benty-fields.com/register) and join the
