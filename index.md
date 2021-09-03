@@ -30,7 +30,7 @@ Our meetings are located in the BIDS space (190 Doe Library), but are currently 
 
 # Fall semester
 
-  - September 13, 2021, Time 11 am: Speaker TBD.
+  - September 13, 2021, Time 11 am: Vinicius Mikuni (LBNL). Title: Point cloud applications to collider physics.
   - September 27, 2021, Time 11 am: Speaker TBD.
   - October 11, 2021, Time 11 am: Speaker TBD.
   - October 25, 2021, Time 11 am: Speaker TBD.
@@ -45,7 +45,7 @@ Our meetings are located in the BIDS space (190 Doe Library), but are currently 
   - February 7, 2022, Time 11 am: Speaker TBD.
   - March 7, 2022, Time 11 am: Speaker TBD.
   - March 21, 2022, Time 11 am: Speaker TBD.
-  - April 4, 2022, Time 11 am: Speaker: Timnit Gebru.  Title: TBD.
+  - April 4, 2022, Time 11 am: Timnit Gebru.  Title: TBD.
   - April 18, 2022, Time 11 am: Speaker TBD.
   - May 2, 2022, Time 11 am: Speaker TBD.
   - May 16, 2022, Time 11 am: Speaker TBD.
