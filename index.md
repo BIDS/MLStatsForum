@@ -30,26 +30,27 @@ Our meetings are located in the BIDS space (190 Doe Library), but are currently 
 
 # Fall semester
 
-  - September 13, 2021, Time 11 am: Vinicius Mikuni (LBNL). Title: Point cloud applications to collider physics.
-  - September 27, 2021, Time 11 am: Speaker TBD.
-  - October 11, 2021, Time 11 am: Speaker TBD.
-  - October 25, 2021, Time 11 am: Speaker TBD.
-  - November 8, 2021, Time 11 am: Speaker TBD.
-  - November 22, 2021, Time 11 am: Speaker TBD.
-  - December 6, 2021, Time 11 am: Speaker TBD.
-  - December 13, 2021, Time 11 am: Speaker TBD.
+  - September 13, 2021, 11 am PST: Vinicius Mikuni (LBNL). Title: Point cloud applications to collider physics.
+  - September 27, 2021, 11 am PST: Speaker TBD.
+  - October 11, 2021, 11 am PST: Speaker TBD.
+  - October 25, 2021, 11 am PST: Speaker TBD.
+  - November 8, 2021, 11 am PST: Speaker TBD.
+  - November 22, 2021, 11 am PST: Speaker TBD.
+  - December 6, 2021, 11 am PST: Speaker TBD.
+  - December 20, 2021, Holiday break -- no speaker.
 
 # Spring semester
 
-  - January 24, 2022, Time 11 am: Speaker TBD.
-  - February 7, 2022, Time 11 am: Speaker TBD.
-  - March 7, 2022, Time 11 am: Speaker TBD.
-  - March 21, 2022, Time 11 am: Speaker TBD.
-  - April 4, 2022, Time 11 am: Timnit Gebru.  Title: TBD.
-  - April 18, 2022, Time 11 am: Speaker TBD.
-  - May 2, 2022, Time 11 am: Speaker TBD.
-  - May 16, 2022, Time 11 am: Speaker TBD.
-  - May 30, 2022, Time 11 am: Speaker TBD.
+  - January 24, 2022, 11 am PST: Speaker TBD.
+  - February 7, 2022, 11 am PST: Speaker TBD.
+  - February 21, 2022, 11 am PST: President's Day -- no speaker.
+  - March 7, 2022, 11 am PST: Speaker TBD.
+  - March 21, 2022, 11 am PST: Speaker TBD.
+  - April 4, 2022, 11 am PST: Timnit Gebru.  Title: TBD.
+  - April 18, 2022, 11 am PST: Speaker TBD.
+  - May 2, 2022, 11 am PST: Speaker TBD.
+  - May 16, 2022, 11 am PST: Speaker TBD.
+  - May 30, 2022, 11 am PST: Speaker TBD.
 
 ### 2020-2021
 
