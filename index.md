@@ -45,7 +45,7 @@ Our meetings are located in the BIDS space (190 Doe Library), but are currently 
   - February 7, 2022, 11 am PST: Speaker TBD.
   - February 21, 2022, 11 am PST: President's Day -- no speaker.
   - March 7, 2022, 11 am PST: Speaker TBD.
-  - March 21, 2022, 11 am PST: Speaker TBD.
+  - March 21, 2022, 11 am PST: Anima Anandkumar. Title: TBD.
   - April 4, 2022, 11 am PST: Timnit Gebru.  Title: TBD.
   - April 18, 2022, 11 am PST: Speaker TBD.
   - May 2, 2022, 11 am PST: Speaker TBD.
