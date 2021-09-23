@@ -32,7 +32,7 @@ Our meetings are located in the BIDS space (190 Doe Library), but are currently 
 
   - September 13, 2021, 11 am PST: Vinicius Mikuni (LBNL). Title: Point cloud applications to collider physics.
   - September 27, 2021, 11 am PST: Mariel Pettee (LBNL). Title: ML Methods for Particle Physics and Choreography.
-  - October 11, 2021, 11 am PST: Speaker TBD.
+  - October 11, 2021, 11 am PST: Jaideep Pathak (LBNL). Title: TBA.
   - October 25, 2021, 11 am PST: Serena Wang (UC Berkeley). Title: TBA.
   - November 8, 2021, 11 am PST: Speaker TBD.
   - November 22, 2021, 11 am PST: Speaker TBD.
