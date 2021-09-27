@@ -49,7 +49,7 @@ Our meetings are located in the BIDS space (190 Doe Library), but are currently 
   - April 4, 2022, 11 am PST: Timnit Gebru.  Title: TBD.
   - April 18, 2022, 11 am PST: Speaker TBD.
   - May 2, 2022, 11 am PST: Speaker TBD.
-  - May 16, 2022, 11 am PST: Speaker TBD.
+  - May 16, 2022, 11 am PST: Sophia Sanborn (Redwood Center for Theoretical Neuroscience). Title: TBA. 
   - May 30, 2022, 11 am PST: Speaker TBD.
 
 ### 2020-2021
