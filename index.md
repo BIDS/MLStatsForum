@@ -36,7 +36,7 @@ Our meetings are located in the BIDS space (190 Doe Library), but are currently 
   - October 25, 2021, 11 am PST: Serena Wang (UC Berkeley). Title: Promises and Pitfalls of Machine Learning for Education.
   - November 8, 2021, 11 am PST: Tarek Zohdi (UC Berkeley). Title: Modeling and Simulation Tools for Industrial and Societal Research Applications: Digital Twins and Genome-based Machine-learning.
   - November 22, 2021, 11 am PST: Speaker TBD.
-  - December 6, 2021, 11 am PST: Speaker TBD.
+  - December 6, 2021, 11 am PST: Kyle Boone (UW).  Title: Deep Generative Modeling of Astronomical Time Series Data.
   - December 20, 2021, Holiday break -- no speaker.
 
 # Spring semester
