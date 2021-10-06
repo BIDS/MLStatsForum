@@ -5,7 +5,19 @@
 layout: home
 ---
 
-The [Berkeley Institute for Data Science](https://bids.berkeley.edu) (BIDS) <b>Machine Learning and Science Forum</b> meets biweekly to discuss current applications across a wide variety of research domains in the physical sciences and beyond. Hosted by BIDS Affiliates Physics Professor [Uroš Seljak](https://bids.berkeley.edu/people/uros-seljak) and LBNL Physics Staff Scientist [Ben Nachman](https://bids.berkeley.edu/people/benjamin-nachman), these active sessions bring together domain scientists, statisticians, and computer scientists who are either developing state-of-the-art methods or are interested in applying these methods in their research. All interested members of the UC Berkeley and Berkeley Lab communities are welcome and encouraged to attend. To receive email notifications about upcoming meetings, or to request more information, please contact the organizers (Vanessa Boehm, Aditi Krishnapriyan, Vinicius Mikuni, Mariel Pettee, and Shashank Subramania) at [berkeleymlforum@gmail.com](mailto:berkeleymlforum@gmail.com).
+The [Berkeley Institute for Data Science](https://bids.berkeley.edu) (BIDS)
+<b>Machine Learning and Science Forum</b> meets biweekly to discuss current
+applications across a wide variety of research domains in the physical sciences
+and beyond. Hosted by BIDS Affiliates Physics Professor [Uroš
+Seljak](https://bids.berkeley.edu/people/uros-seljak) and LBNL Physics Staff
+Scientist [Ben Nachman](https://bids.berkeley.edu/people/benjamin-nachman),
+these active sessions bring together domain scientists, statisticians, and
+computer scientists who are either developing state-of-the-art methods or are
+interested in applying these methods in their research. All interested members
+of the UC Berkeley and Berkeley Lab communities are welcome and encouraged to
+attend. To receive email notifications about upcoming meetings, or to request
+more information, please contact the organizers (Vanessa Boehm, Aditi
+Krishnapriyan, Vinicius Mikuni, Mariel Pettee, and Shashank Subramanian) at [berkeleymlforum@gmail.com](mailto:berkeleymlforum@gmail.com).
 
 See also the [BIDS event listing](https://bids.berkeley.edu/research/machine-learning-and-science-forum).
 
@@ -32,7 +44,7 @@ Our meetings are located in the BIDS space (190 Doe Library), but are currently 
 
   - September 13, 2021, 11 am PST: Vinicius Mikuni (LBNL). Title: Point cloud applications to collider physics.
   - September 27, 2021, 11 am PST: Mariel Pettee (LBNL). Title: ML Methods for Particle Physics and Choreography.
-  - October 11, 2021, 11 am PST: Jaideep Pathak (LBNL). Title: TBA.
+  - October 11, 2021, 11 am PST: Jaideep Pathak (LBNL). Title: Data-driven and Data-assisted Modeling for Applications in Fluid Dynamics and Geophysics.
   - October 25, 2021, 11 am PST: Serena Wang (UC Berkeley). Title: Promises and Pitfalls of Machine Learning for Education.
   - November 8, 2021, 11 am PST: Tarek Zohdi (UC Berkeley). Title: Modeling and Simulation Tools for Industrial and Societal Research Applications: Digital Twins and Genome-based Machine-learning.
   - November 22, 2021, 11 am PST: Speaker TBD.
