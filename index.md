@@ -45,7 +45,7 @@ Our meetings are located in the BIDS space (190 Doe Library), but are currently 
   - September 13, 2021, 11 am PST: Vinicius Mikuni (LBNL). Title: Point cloud applications to collider physics.
   - September 27, 2021, 11 am PST: Mariel Pettee (LBNL). Title: ML Methods for Particle Physics and Choreography.
   - October 11, 2021, 11 am PST: Jaideep Pathak (LBNL). Title: Data-driven and Data-assisted Modeling for Applications in Fluid Dynamics and Geophysics.
-  - October 25, 2021, 11 am PST: Serena Wang (UC Berkeley). Title: Promises and Pitfalls of Machine Learning for Education.
+  - October 25, 2021, 11 am PST: Serena Wang (UC Berkeley). Title: ML for Social Good in Practice: from Robust Optimization to Broader Impacts in Education.
   - November 8, 2021, 11 am PST: Tarek Zohdi (UC Berkeley). Title: Modeling and Simulation Tools for Industrial and Societal Research Applications: Digital Twins and Genome-based Machine-learning.
   - November 22, 2021, 11 am PST: Eric Gianella (Code4America). Title: TBD
   - December 6, 2021, 11 am PST: Kyle Boone (UW).  Title: Deep Generative Modeling of Astronomical Time Series Data.
