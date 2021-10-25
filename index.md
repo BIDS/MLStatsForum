@@ -49,7 +49,7 @@ Our meetings are located in the BIDS space (190 Doe Library), but are currently 
   - November 8, 2021, 11 am PST: Tarek Zohdi (UC Berkeley). Title: Modeling and Simulation Tools for Industrial and Societal Research Applications: Digital Twins and Genome-based Machine-learning.
   - November 22, 2021, 11 am PST: Eric Gianella (Code4America). Title: TBD
   - December 6, 2021, 11 am PST: Kyle Boone (UW).  Title: Deep Generative Modeling of Astronomical Time Series Data.
-  - December 20, 2021, Holiday break -- no speaker.
+  - December 14, 2021, 11 am PST: Eli Ben-Michael (Harvard). Title: TBD
 
 # Spring semester
 
