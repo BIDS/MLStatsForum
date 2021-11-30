@@ -47,8 +47,8 @@ Our meetings are located in the BIDS space (190 Doe Library), but are currently 
   - October 11, 2021, 11 am PST: Jaideep Pathak (LBNL). Title: Data-driven and Data-assisted Modeling for Applications in Fluid Dynamics and Geophysics.
   - October 25, 2021, 11 am PST: Serena Wang (UC Berkeley). Title: ML for Social Good in Practice: from Robust Optimization to Broader Impacts in Education.
   - November 8, 2021, 11 am PST: Tarek Zohdi (UC Berkeley). Title: Modeling and Simulation Tools for Industrial and Societal Research Applications: Digital Twins and Genome-based Machine-learning.
-  - November 22, 2021, 11 am PST: Eric Gianella (Code4America). Title: TBD
-  - December 6, 2021, 11 am PST: Kyle Boone (UW).  Title: Deep Generative Modeling of Astronomical Time Series Data.
+  - November 22, 2021, 11 am PST: Eric Gianella (Code4America). Title: Data ethics in government services: putting accountable humans in-the-loop
+  - December 6, 2021, 11 am PST: Katy Craig and Nathaniel Craig (UCSB/UCB).  Title: TBD
   - December 13, 2021, 11 am PST: Eli Ben-Michael (Harvard). Title: TBD
 
 # Spring semester
