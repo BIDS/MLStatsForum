@@ -54,7 +54,7 @@ Our meetings are located in the BIDS space (190 Doe Library), but are currently 
 # Spring semester
 
   - January 24, 2022, 11 am PST: Alex Kendall (Wayve). Title: AV2.0: Learning a Globally Scalable Driving Intelligence. 
-  - February 7, 2022, 11 am PST: Somdeb Majumdar (Intel). Title: TBD. 
+  - February 7, 2022, **12 pm PST**: Somdeb Majumdar (Intel). Title: TBD. 
   - February 21, 2022, 11 am PST: President's Day -- no speaker.
   - March 7, 2022, 11 am PST: Somayeh Sojoudi (UC Berkeley). Title: TBA.
   - March 21, 2022, 11 am PST: Anima Anandkumar (Caltech/NVIDIA). Title: TBA.
