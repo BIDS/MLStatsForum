@@ -56,7 +56,7 @@ Our meetings are located in the BIDS space (190 Doe Library), but are currently 
   - January 24, 2022, 11 am PST: Alex Kendall (Wayve). Title: TBD. 
   - February 7, 2022, 11 am PST: Somdeb Majumdar (Intel). Title: TBD. 
   - February 21, 2022, 11 am PST: President's Day -- no speaker.
-  - March 7, 2022, 11 am PST: Somayeh Sojoudi (UC Berkeley). Title: TBA.
+  - March 7, 2022, 11 am PST: Somayeh Sojoudi (UC Berkeley). Title: Computational Methods for Machine Learning and Artificial Intelligence.
   - March 21, 2022, 11 am PST: Anima Anandkumar (Caltech/NVIDIA). Title: TBA.
   - April 4, 2022, 11 am PST: Timnit Gebru.  Title: TBA.
   - April 18, 2022, 11 am PST: Speaker TBD.
