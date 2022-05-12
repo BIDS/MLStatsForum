@@ -60,7 +60,7 @@ Our meetings are located in the BIDS space (190 Doe Library), but are currently 
   - April 4, 2022, 11 am PST: Timnit Gebru.  Title: TBA.
   - April 18, 2022, 11 am PST: Tomasz Kacprzak (ETH)
   - May 2, 2022, 11 am PST: Youssef M Marzouk (MIT).
-  - May 16, 2022, 11 am PST: Sophia Sanborn (Redwood Center for Theoretical Neuroscience). Title: TBA. 
+  - May 16, 2022, 11 am PST: Sophia Sanborn (Redwood Center for Theoretical Neuroscience). Title: Bispectral Networks for Robust Group-Invariant Representation Learning. 
   - May 30, 2022, 11 am PST: Memorial Day -- no speaker.
 
 ### 2020-2021
