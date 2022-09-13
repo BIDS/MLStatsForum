@@ -50,9 +50,9 @@ Our meetings are located in the BIDS space (190 Doe Library), but are currently 
   - December 5, 2022, 11am PST: TBD
   - December 19, 2022, 11am PST: TBD
 
-### 2021-2022
+# 2021-2022
 
-# Fall semester
+### Fall semester
 
   - September 13, 2021, 11 am PST: Vinicius Mikuni (LBNL). Title: Point cloud applications to collider physics.
   - September 27, 2021, 11 am PST: Mariel Pettee (LBNL). Title: ML Methods for Particle Physics and Choreography.
@@ -63,7 +63,7 @@ Our meetings are located in the BIDS space (190 Doe Library), but are currently 
   - December 6, 2021, 11 am PST: Katy Craig and Nathaniel Craig (UCSB/UCB).  Title: TBD
   - December 13, 2021, 11 am PST: Eli Ben-Michael (Harvard). Title: TBD
 
-# Spring semester
+### Spring semester
 
   - January 24, 2022, 11 am PST: Alex Kendall (Wayve). Title: AV2.0: Learning a Globally Scalable Driving Intelligence. 
   - February 7, 2022, 11am PST: Somdeb Majumdar (Intel). Title: TBD. 
@@ -75,9 +75,9 @@ Our meetings are located in the BIDS space (190 Doe Library), but are currently 
   - May 16, 2022, 11 am PST: Sophia Sanborn (Redwood Center for Theoretical Neuroscience). Title: Bispectral Networks for Robust Group-Invariant Representation Learning. 
   - May 30, 2022, 11 am PST: Memorial Day -- no speaker.
 
-### 2020-2021
+# 2020-2021
 
-# Fall semester
+### Fall semester
   - September 14, 2020, Time 11 am:  Michaela Paganini (Facebook AI Research).  Title: Comprehension is compression: understanding neural networks through pruning and the lottery ticket hypothesis.
   - September 28, 2020, Time 11 am: Chirag Modi (UC Berkeley). Title: FlowPM: Distributed TensorFlow Implementation of Cosmological N-body Solver.
   - October 12, 2020, Time 11 am: Adam Sadilek (Google).  Title: Machine-Learned Epidemiology.
@@ -87,7 +87,7 @@ Our meetings are located in the BIDS space (190 Doe Library), but are currently 
   - December 7, 2020, Time 11 am: Ian Convy (UC Berkeley).  Title: Mutual Information Estimation for Tensor Network Machine Learning.
   - December 21, 2020, Time 11 am: Christmas break. Happy Holidays!
 
-# Spring semester
+### Spring semester
   - January 25, 2021, Time 11 am: Debbie Bard (NERSC).  Title: AI at the exascale.
   - February 8, 2021, Time 11 am: Omri Azencot (Ben-Gurion Univeristy). Title: Latent Vector Recurrent Models.
   - February 22, 2021, Time 11 am: Soon Hoe Lim (KTH). Title: Noisy Recurrent Neural Networks  
@@ -98,7 +98,7 @@ Our meetings are located in the BIDS space (190 Doe Library), but are currently 
   - May 3, 2021, Time 11 am: Nikhil Rao (Amazon). Title: HypE: Learning Knowledge Graph Entity Representations in Hyperbolic Space. 
   - June 14, 2021, Time 11 am: Liam Hodgkinson (UC Berkeley). Title: Training stochastic differential equation models using ordinary differential equations. 
 
-### 2019-2020
+# 2019-2020
 
   - January 27, 2020, 1:30pm: Marin Bukov (Physics, UC Berkeley).  Title: Reinforcement Learning to Control Quantum Systems.
   - February 10, 2020, 1:30pm: Wahid Bhimji (NERSC): Title: Probabilistic programming and Deep Learning at scale for science.
@@ -113,7 +113,7 @@ Our meetings are located in the BIDS space (190 Doe Library), but are currently 
   
   
 
-### Previous sessions
+# Previous sessions
 
   - [A family of algorithms for interpreting manifold embedding coordinates in molecular dynamics data, Samson Koelle](https://bids.berkeley.edu/events/bsmlf-2019-1216)
   - [Probing Dark Matter with Strong Gravitational Lensing, Simon Birrer](https://bids.berkeley.edu/events/bsmlf-2019-1202)
