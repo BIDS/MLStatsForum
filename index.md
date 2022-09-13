@@ -38,9 +38,9 @@ Please, **sign up for our google group** on [berkeleymlforum](https://groups.goo
 
 Our meetings are located in the BIDS space (190 Doe Library), but are currently being held on Zoom until further notice.
 
-### 2022-2023
+# 2022-2023
 
-# Fall semester
+### Fall semester
 
   - September 26, 2022, 11am PST: Somdeb Majumdar (Intel). Title: The Changing Landscape of AI-Driven System Optimization
   - October 10, 2022, 11am PST: TBD
