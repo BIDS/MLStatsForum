@@ -42,6 +42,18 @@ Our meetings are located in the BIDS space (190 Doe Library), but are currently 
 
 # Fall semester
 
+  - September 26, 2022, 11am PST: Somdeb Majumdar (Intel). Title: The Changing Landscape of AI-Driven System Optimization
+  - October 10, 2022, 11am PST: TBD
+  - October 24, 2022, 11am PST: TBD
+  - November 7, 2022, 11am PST: TBD
+  - November 21, 2022, 11am PST: TBD
+  - December 5, 2022, 11am PST: TBD
+  - December 19, 2022, 11am PST: TBD
+
+### 2021-2022
+
+# Fall semester
+
   - September 13, 2021, 11 am PST: Vinicius Mikuni (LBNL). Title: Point cloud applications to collider physics.
   - September 27, 2021, 11 am PST: Mariel Pettee (LBNL). Title: ML Methods for Particle Physics and Choreography.
   - October 11, 2021, 11 am PST: Jaideep Pathak (LBNL). Title: Data-driven and Data-assisted Modeling for Applications in Fluid Dynamics and Geophysics.
