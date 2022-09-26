@@ -50,6 +50,15 @@ Our meetings are located in the BIDS space (190 Doe Library), but are currently 
   - December 5, 2022, 11am PST: TBD
   - December 19, 2022, 11am PST: TBD
 
+### Spring semester
+  - January 16, 2023, 11am PST: TBD
+  - January 30, 2023, 11am PST: Savannah Thais (Columbia University). Title: TBD
+  - February 13, 2023, 11am PST: TBD
+  - February 27, 2023, 11am PST: TBD
+  - April 10, 2023, 11am PST: TBD
+  - April 24, 2023, 11am PST: TBD
+
+
 # 2021-2022
 
 ### Fall semester
