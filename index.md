@@ -46,7 +46,7 @@ Our meetings are located in the BIDS space (190 Doe Library), but are currently 
   - October 10, 2022, 11am PST: TBD
   - October 24, 2022, 11am PST: David Rolnick (McGill University/Mila). Title: TBD
   - November 7, 2022, 11am PST: TBD
-  - November 21, 2022, 11am PST: TBD
+  - November 21, 2022, 11am PST: Yue Shi Lai (Lawrence Berkeley National Lab). Title: TBD
   - December 5, 2022, 11am PST: TBD
   - December 19, 2022, 11am PST: TBD
 
