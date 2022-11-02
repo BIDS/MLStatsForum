@@ -17,7 +17,7 @@ interested in applying these methods in their research. All interested members
 of the UC Berkeley and Berkeley Lab communities are welcome and encouraged to
 attend. To receive email notifications about upcoming meetings, or to request
 more information, please contact the organizers (Vanessa Boehm, Aditi
-Krishnapriyan, Vinicius Mikuni, Mariel Pettee, and Shashank Subramanian) at [berkeleymlforum@gmail.com](mailto:berkeleymlforum@gmail.com).
+Krishnapriyan, Vinicius Mikuni, Mariel Pettee, Fernando Torales Acosta, and Shashank Subramanian) at [berkeleymlforum@gmail.com](mailto:berkeleymlforum@gmail.com).
 
 See also the [BIDS event listing](https://bids.berkeley.edu/research/machine-learning-and-science-forum).
 
