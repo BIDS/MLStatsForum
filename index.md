@@ -54,9 +54,9 @@ Our meetings are located in the BIDS space (190 Doe Library), but are currently 
   - January 16, 2023, 11am PST: MLK Day
   - January 30, 2023, 11am PST: TBD
   - February 13, 2023, 11am PST: TBD
-  - February 27, 2023, 11am PST: Christina Peters (University of Delaware). Title: TBD
+  - February 27, 2023, 11am PST: TBD
   - March 13, 2023, 11am PST: Savannah Thais (Columbia University). Title: TBD
-  - March 27, 2023, 11am PST: TBD
+  - March 27, 2023, 11am PST: Christina Peters (University of Delaware). Title: TBD
   - April 10, 2023, 11am PST: Arash Vahdat (NVIDIA). Title: TBD
   - April 24, 2023, 11am PST: TBD
 
