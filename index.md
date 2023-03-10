@@ -58,7 +58,7 @@ Our meetings are located in the BIDS space (190 Doe Library), but are currently 
   - March 13, 2023, 11am PST: Savannah Thais (Columbia University). Title: TBD
   - March 27, 2023, 11am PST: Christina Peters (University of Delaware). Title: TBD
   - April 10, 2023, 11am PST: Arash Vahdat (NVIDIA). Title: TBD
-  - April 24, 2023, 11am PST: TBD
+  - April 24, 2023, 11am PST: Fernando Torales Acosta (LBNL). Title: TBD
 
 
 # 2021-2022
